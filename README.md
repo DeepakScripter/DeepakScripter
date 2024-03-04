@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
 
 ### 💻 Tech Stack:
-- HTML5
-- CSS3
-- JavaScript
-- SASS
-- React
+![HTML5](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-333?style=flat-square&logo=sass&logoColor=CC6699)
+![React](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Some basic Git commands:
 ```bash
