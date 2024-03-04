@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
 
 ### 💻 Tech Stack:
-![CoreJvava](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
-![ASP.NetCore](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
-![HTML](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
+![Core Java](https://img.shields.io/badge/Core%20Java-333?style=flat-square&logo=java&logoColor=E34F26)
+![ASP.Net Core](https://img.shields.io/badge/ASP.Net%20Core-333?style=flat-square&logo=.net&logoColor=512BD4)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61DAFB)
 
