@@ -3,21 +3,19 @@
 - 👀 I’m interested in software development, programming, and exploring new technologies.
 - 🌱 I’m currently learning and enhancing my skills in various programming languages and frameworks.
 - 💞️ I’m looking to collaborate on open-source projects and interesting coding challenges.
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/deepakscripter/).
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/coder-deepak44/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is my passion, and I believe in the power of well-written code to make a positive impact.
 
-<!---
-DeepakScripter/DeepakScripter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+## 🌐 Socials:
+[![LinkedIn](https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png)](https://www.linkedin.com/in/coder-deepak44/)
 
 ## Git Status:
 ![GitHub last commit](https://img.shields.io/github/last-commit/DeepakScripter/DeepakScripter?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
 
 ## 💻 Tech Stack:
-![Core Java](https://img.shields.io/badge/Core%20Java-333?style=flat-square&logo=java&logoColor=E34F26)
+![Java](https://img.shields.io/badge/Core%20Java-333?style=flat-square&logo=java&logoColor=E34F26)
 ![ASP.Net Core](https://img.shields.io/badge/ASP.Net%20Core-333?style=flat-square&logo=.net&logoColor=512BD4)
 ![HTML5](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
