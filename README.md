@@ -16,6 +16,13 @@ You can click the Preview link to take a look at your changes.
 ![GitHub last commit](https://img.shields.io/github/last-commit/DeepakScripter/DeepakScripter?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
 
+### 💻 Tech Stack:
+- HTML5
+- CSS3
+- JavaScript
+- SASS
+- React
+
 ### Some basic Git commands:
 ```bash
 git status      # Check the status of your repository
