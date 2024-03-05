@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Deepak!
+![Black and White Modern Accountant LinkedIn Banner](https://github.com/DeepakScripter/DeepakScripter/assets/149933593/f5d809da-1428-4606-81d6-6fef3bedb2e8)
 
 - 👀 I’m interested in software development, programming, and exploring new technologies.
 - 🌱 I’m currently learning and enhancing my skills in various programming languages and frameworks.
@@ -8,7 +9,10 @@
 - ⚡ Fun fact: Coding is my passion, and I believe in the power of well-written code to make a positive impact.
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.freepnglogos.com/uploads/linkedin-logo-style-png-8.png)](https://www.linkedin.com/in/coder-deepak44/)[![Twitter](https://static.toiimg.com/thumb/msid-101450421,width-375,height-250/101450421.jpg)](https://twitter.com/Code__deepak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/coder-deepak44/)
+[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?style=flat&logo=twitter)](https://twitter.com/intent/tweet?url=https://twitter.com/Code__deepak&text=Your%20custom%20tweet%20here&via=your_twitter_id&hashtags=your,hashtags,here)
+[![Gmail](https://mail.google.com/mail/?view=cm&to={email_address}&su={title}&body={url}&bcc={email_address}&cc={coder.deepak44@gmail.com})]
+
 
 
 
@@ -37,11 +41,9 @@
 
 # GitHub Contributions
 
-![Total Contributions](https://img.shields.io/github/commit-activity/m/DeepakScripter?style=flat-square)
-![Current Streak](https://img.shields.io/github/streak-stats/DeepakScripter?style=flat-square)
-![Longest Streak](https://img.shields.io/github/longest-streak/DeepakScripter?style=flat-square)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DeepakScripter&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Top Languages:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter&layout=compact)](https://github.com/DeepakScripter)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
