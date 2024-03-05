@@ -8,7 +8,8 @@
 - ⚡ Fun fact: Coding is my passion, and I believe in the power of well-written code to make a positive impact.
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.freepnglogos.com/uploads/linkedin-logo-style-png-8.png)](https://www.linkedin.com/in/coder-deepak44/)
+[![LinkedIn](https://www.freepnglogos.com/uploads/linkedin-logo-style-png-8.png)](https://www.linkedin.com/in/coder-deepak44/)[![Twitter](https://static.toiimg.com/thumb/msid-101450421,width-375,height-250/101450421.jpg)](https://twitter.com/Code__deepak)
+
 
 
 
