@@ -20,25 +20,28 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
 
 ## 💻 Tech Stack:
-![CoreJava](https://gravitysoftwareclasses.in/wp-content/uploads/2022/12/Frame-6-1.png)
-![ASP.Net Core](https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61DAFB)
+
+
+[![Core Java](https://img.shields.io/badge/Core_Java-Expert-blue?style=for-the-badge&logo=java)](https://www.java.com/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Proficient-blue?style=for-the-badge&logo=.net)](https://docs.microsoft.com/en-us/aspnet/core/)
+[![HTML5](https://img.shields.io/badge/HTML5-Proficient-blue?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-Proficient-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-blue?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+
+
+
 
 # GitHub Stats:
 [![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakScripter&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/DeepakScripter)
 
-![Total Contributions](https://img.shields.io/github/total-contributions/DeepakScripter?style=flat-square)
+# GitHub Contributions
+
+![Total Contributions](https://img.shields.io/github/commit-activity/m/DeepakScripter?style=flat-square)
 ![Current Streak](https://img.shields.io/github/streak-stats/DeepakScripter?style=flat-square)
 ![Longest Streak](https://img.shields.io/github/longest-streak/DeepakScripter?style=flat-square)
 
 ## Top Languages:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter&layout=compact)](https://github.com/DeepakScripter)
 
-## Some basic Git commands:
-```bash
-git status      # Check the status of your repository
-git add         # Add changes to the staging area
-git commit      # Commit changes with a descriptive message
+
