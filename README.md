@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Coding is my passion, and I believe in the power of well-written code to make a positive impact.
 
 ## 🌐 Socials:
-[![LinkedIn](https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png)](https://www.linkedin.com/in/coder-deepak44/)
+[![LinkedIn](https://pngimg.com/uploads/linkedIn/linkedIn_PNG10.png)](https://www.linkedin.com/in/coder-deepak44/)
 
 ## Git Status:
 ![GitHub last commit](https://img.shields.io/github/last-commit/DeepakScripter/DeepakScripter?style=flat-square)
