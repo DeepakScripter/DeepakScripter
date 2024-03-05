@@ -10,6 +10,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://www.freepnglogos.com/uploads/linkedin-logo-style-png-8.png)](https://www.linkedin.com/in/coder-deepak44/)
 
+
+
+
+
 ## Git Status:
 ![GitHub last commit](https://img.shields.io/github/last-commit/DeepakScripter/DeepakScripter?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
