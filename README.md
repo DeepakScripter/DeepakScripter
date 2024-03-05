@@ -20,8 +20,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Core%20Java-333?style=flat-square&logo=java&logoColor=E34F26)
-![ASP.Net Core](https://img.shields.io/badge/ASP.Net%20Core-333?style=flat-square&logo=.net&logoColor=512BD4)
+![CoreJava](https://gravitysoftwareclasses.in/wp-content/uploads/2022/12/Frame-6-1.png)
+![ASP.Net Core](https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png)
 ![HTML5](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
