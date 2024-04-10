@@ -37,14 +37,13 @@
 
 
 # GitHub Stats:
-[![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakScripter&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/DeepakScripter)
+[![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakScripter&show_icons=true&count_private=true&hide=stars,contribs)]
 
 # GitHub Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeepakScripter&theme=highcontrast)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=DeepakScripter&theme=highcontrast)]
 ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter)]
 
 
 
