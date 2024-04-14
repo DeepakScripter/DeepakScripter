@@ -25,10 +25,10 @@
 [![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 
 # GitHub Stats:
-[![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakScripter&show_icons=true&count_private=true&hide=stars,contribs)]
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakScripter&show_icons=true&count_private=true&hide=stars,contribs)
 
 # GitHub Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeepakScripter&theme=highcontrast)]
+![GitHub Streak](https://streak-stats.demolab.com?user=DeepakScripter&theme=highcontrast)
 
 ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter)
