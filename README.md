@@ -31,4 +31,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=DeepakScripter&theme=highcontrast)
 
 ## Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakScripter&hide_progress=true)
