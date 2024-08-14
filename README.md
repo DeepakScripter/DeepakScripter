@@ -16,12 +16,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DeepakScripter/DeepakScripter?style=flat-square)
 
 ## 💻 Tech Stack:
-[![Core Java](https://img.shields.io/badge/Core_Java-Expert-blue?style=for-the-badge&logo=java)](https://www.java.com/)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Proficient-blue?style=for-the-badge&logo=.net)](https://docs.microsoft.com/en-us/aspnet/core/)
+
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Expert-blue?style=for-the-badge&logo=.net)](https://docs.microsoft.com/en-us/aspnet/core/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-blue?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-Proficient-blue?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-Proficient-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-blue?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+
 
 # GitHub Stats:
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakScripter&show_icons=true&count_private=true&hide=stars,contribs)
