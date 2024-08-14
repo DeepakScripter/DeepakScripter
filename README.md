@@ -10,7 +10,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/coder-deepak44/)
-[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?style=flat&logo=twitter)](https://twitter.com/intent/tweet?url=https://twitter.com/Code__deepak&text=Your%20custom%20tweet%20here&via=your_twitter_id&hashtags=your,hashtags,here)
 
 ## Git Status:
 ![GitHub last commit](https://img.shields.io/github/last-commit/DeepakScripter/DeepakScripter?style=flat-square)
